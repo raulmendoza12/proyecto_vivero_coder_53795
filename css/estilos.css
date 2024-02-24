@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&family bjm =Urbanist:wght@200&display=swap');
+
+/*comentario
+paleta de colores
+#8bdded azul
+#3c748e azul oscuro
+#68b809 verde claro
+#707524 verde marron
+#050805 negro
+.............................................................................................................................
+paleta de cafes
+#4e3300
+
+
+#82612d
+
+
+#b9935a
+
+
+#ddc88f
+
+#ffffc7
+
+............................................................................................................................
+paleta de verdes
+
+#255000
+
+
+#588100
+
+#8db600
+
+#c6da52
+
+#ffff8b*/
+
+h1{
+    color:#b9935a;
+    font-size: 50px;
+    font-family: 'Crimson Text',sans-serif;
+    background-color:#4e3300;
+}
+p{
+    color:black;
+    font-size: 16px;
+    font-family: 'Urbanist', sans-serif;
+}/*background-color: para el cambiar el color de fondo*/
+.fuentetitulo{
+    color:#b9935a;
+    font-size: 50px;
+    font-family: 'Crimson Text',sans-serif;
+}
+.colorverde{
+   color:#6f9b0e;
+}
+h2{
+    color: #b9935a;
+}
